@@ -32,6 +32,7 @@ numero(7);
 //D
 // for (let i = 4; i < 100; i++) {
 //         console.log("(" + i + "):" + (i) + "\t");
+// O resultado da sequência seria 100, pois cada número é referente as potências, 2,4,6,8,10 elevadas ao quadrado
 // }
 
 // E
